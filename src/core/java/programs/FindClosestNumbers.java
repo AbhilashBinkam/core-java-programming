@@ -1,4 +1,4 @@
-package com.core.java.practise;/*
+package core.java.programs;/*
  *
  * Created by
  * Binkam Abhilash
@@ -69,7 +69,7 @@ public class FindClosestNumbers {
 
     // Driver code
     public static void main(String[] args) {
-        int arr[] = {1, 2, 4, 5, 6, 6, 8, 9,11};
+        int arr[] = {1, 2, 4, 5, 6, 6, 8, 9, 11};
         int target = 10;
         System.out.println(findClosest(arr, target));
     }
